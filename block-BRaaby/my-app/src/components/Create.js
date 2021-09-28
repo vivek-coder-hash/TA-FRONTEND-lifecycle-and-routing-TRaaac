@@ -55,7 +55,7 @@ export class Create extends Component {
             <div>
               <h6 className="text-center">{this.state.title}</h6>
               <h3 className="text-center text-2xl mb-4	">
-                {this.state.value || 'Ravindra Singh'}
+                {this.state.value || 'vivek'}
               </h3>
               <div className="flex justify-between items-center flex-wrap">
                 <p
